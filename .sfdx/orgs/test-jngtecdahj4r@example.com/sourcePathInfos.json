@@ -34,10 +34,10 @@
         {
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default",
             "isDirectory": true,
-            "size": 224,
-            "modifiedTime": 1542234745724,
-            "changeTime": 1542234745724,
-            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "size": 288,
+            "modifiedTime": 1542235144973,
+            "changeTime": 1542235144973,
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -49,25 +49,25 @@
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1542234852216,
-            "changeTime": 1542234852216,
+            "size": 160,
+            "modifiedTime": 1542235237952,
+            "changeTime": 1542235237952,
             "isWorkspace": false,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 320,
             "modifiedTime": 1542233341015,
             "changeTime": 1542233341015,
-            "isWorkspace": true,
-            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9"
+            "contentHash": "b500e0cc0fe528e3c3beb5f312ce13c9ab3dbcb9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -255,27 +255,27 @@
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 352,
-            "modifiedTime": 1542234948033,
+            "modifiedTime": 1542235422340,
             "changeTime": 1542234948033,
-            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1542234852219,
             "changeTime": 1542234852219,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -285,100 +285,451 @@
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 156,
-            "modifiedTime": 1542234928204,
-            "changeTime": 1542234928206,
-            "contentHash": "f3f590857881ca3c0ed746a2c23effadffed7691"
+            "size": 163,
+            "modifiedTime": 1542235422235,
+            "changeTime": 1542235422235,
+            "contentHash": "faff2ef516b058a99fefc6a339cae8ef27712344"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1542234852217,
             "changeTime": 1542234852217,
-            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85"
+            "contentHash": "031f43b37d7bb45e1a9e19859d572e3a7f2d1d85",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 114,
             "modifiedTime": 1542234947927,
             "changeTime": 1542234947928,
-            "contentHash": "2328b9d86912304ce18f810ad4c8ff6f7a2f0a1a"
+            "contentHash": "2328b9d86912304ce18f810ad4c8ff6f7a2f0a1a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1542234852220,
             "changeTime": 1542234852220,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1542234852219,
             "changeTime": 1542234852219,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1542234852217,
             "changeTime": 1542234852217,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1542234852218,
             "changeTime": 1542234852218,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
         {
-            "state": "u",
             "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1542234852219,
             "changeTime": 1542234852219,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "size": 267,
+            "modifiedTime": 1542235144970,
+            "changeTime": 1542235144970,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 5016,
+            "modifiedTime": 1542235144974,
+            "changeTime": 1542235144974,
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4680,
+            "modifiedTime": 1542235144977,
+            "changeTime": 1542235144977,
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 18199,
+            "modifiedTime": 1542235144988,
+            "changeTime": 1542235144988,
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4676,
+            "modifiedTime": 1542235144991,
+            "changeTime": 1542235144991,
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1542235144970,
+            "changeTime": 1542235144970,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1542235144991,
+            "changeTime": 1542235144991,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1542235336295,
+            "changeTime": 1542235336295,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1542235257795,
+            "changeTime": 1542235257795,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1542235237955,
+            "changeTime": 1542235237955,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 340,
+            "modifiedTime": 1542235298149,
+            "changeTime": 1542235298151,
+            "contentHash": "e9a0fc9073af1fd882450129c76449abec83d306"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1542235237953,
+            "changeTime": 1542235237953,
+            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1542235336186,
+            "changeTime": 1542235336188,
+            "contentHash": "ffb0c190d22412de018267aa248858c3c8872075"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1542235237956,
+            "changeTime": 1542235237956,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1542235237955,
+            "changeTime": 1542235237955,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1542235321032,
+            "changeTime": 1542235321034,
+            "contentHash": "9f73369ca66b087616f3bb8205b8e3f57484b270"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1542235237953,
+            "changeTime": 1542235237953,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1542235237954,
+            "changeTime": 1542235237954,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1542235175630,
+            "changeTime": 1542235175630,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1542235213012,
+            "changeTime": 1542235213016,
+            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1542235175628,
+            "changeTime": 1542235175628,
+            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1542235226182,
+            "changeTime": 1542235226184,
+            "contentHash": "22602e1233fee615edad96067b8caea2a99688b0"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1542235175631,
+            "changeTime": 1542235175631,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1542235175630,
+            "changeTime": 1542235175630,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1542235175628,
+            "changeTime": 1542235175628,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1542235175629,
+            "changeTime": 1542235175629,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/smusson/dev/sfdx/project1/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1542235175630,
+            "changeTime": 1542235175630,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]

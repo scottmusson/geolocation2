@@ -1,0 +1,7 @@
+{
+    "orgName": "smusson Company",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}

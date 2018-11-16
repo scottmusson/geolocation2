@@ -1,9 +1,6 @@
 <aura:component>
     <aura:attribute name="map" type="Object"/>
-<<<<<<< HEAD
     <aura:handler event="c:AccountsLoaded" action="{!c.accountsLoaded}"/>
-=======
->>>>>>> 62ffd5245c1b2884d6a2b0beb850897e3223a2ae
     <ltng:require styles="/resource/leaflet/leaflet.css"
         scripts="/resource/leaflet/leaflet.js"
         afterScriptsLoaded="{!c.jsLoaded}" />
